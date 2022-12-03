@@ -4,6 +4,6 @@ Miło mi, że odwiedzasz mój profil. Oto kilka faktów o mnie:
 - Studiuję Informatykę i Systemy Inteligentne na AGH w Krakowie💚🖤❤️
 - Bardzo lubię czytać książki, głównie o tematyce politycznej lub historycznej📖
 - Moje zainteresowania to sport(tenis stołowy🏓, piłka ręczna), astronomia🌃 i obserwacja dzikich zwierząt🐺 
-- [Moja strona](https://rafalit.github.io/)
+- Moja strona [kliknij tutaj](https://rafalit.github.io/)
 
 Aktualnie uczę się programować w zepole ♟️ Szóstka_z_7 ♟️
