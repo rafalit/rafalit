@@ -1,12 +1,8 @@
-# Cześć 👋
-Miło mi, że odwiedzasz mój profil. Oto kilka faktów o mnie:
-- Jestem Rafał i pochodzę z Libuszy, małej wsi na południu Polski🏘️
-- Studiuję Informatykę i Systemy Inteligentne na AGH w Krakowie💚🖤❤️
-- Bardzo lubię czytać książki, głównie o tematyce politycznej lub historycznej📖
-- Moje zainteresowania to sport(tenis stołowy🏓, piłka ręczna), astronomia🌃 i obserwacja dzikich zwierząt🐺 
-- Moja strona [kliknij tutaj](https://rafalit.github.io/)
-
-Aktualnie uczę się programować w zepole ♟️ Szóstka_z_7 ♟️
+#Hello, I'm Rafał Szarowicz 
+-I'm currently working on Booking Web App
+-I'm currently learning Java and SQL
+- All of my projects are available -> [click here](https://rafalit.github.io/)
+- You can contact me at szarowiczrafal@gmail.com
 
 fork - [kliknij tutaj](https://github.com/rafalit/code_contests)
 
